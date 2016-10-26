@@ -1,0 +1,19 @@
+{
+  "name": "laketahoe",
+  "version": "1.0.0",
+  "description": "Code for my Treehouse Gulp.js course!  June, 2015.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ruiui/gulp.git"
+  },
+  "author": "rui qi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruiui/gulp/issues"
+  },
+  "homepage": "https://github.com/ruiui/gulp#readme"
+}
